@@ -1,0 +1,5 @@
+AWS_SSM_ADD_ENDPOINT="/calculator/service-discovery/add-endpoint"
+AWS_SSM_DIVIDE_ENDPOINT="/calculator/service-discovery/divide-endpoint"
+AWS_SSM_SUBTRACT_ENDPOINT="/calculator/service-discovery/subtract-endpoint"
+AWS_SSM_MULTIPLY_ENDPOINT="/calculator/service-discovery/multiply-endpoint"
+AWS_SSM_AVERAGE_ENDPOINT="/calculator/service-discovery/divide-endpoint"
